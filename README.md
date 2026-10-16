@@ -56,6 +56,23 @@ DISPLAY”THANK YOU FOR USING THE STUDENT ATTENDANCE AND ALERT SYSTEM”
 STOP
 
 ## Flowchart
+<img width="1280" height="1253" alt="WhatsApp Image 2026-10-15 at 13 56 19" src="https://github.com/user-attachments/assets/c41277f7-e89f-4e70-a184-b66cddb6ba27" />
+<img width="960" height="915" alt="WhatsApp Image 2026-10-15 at 13 56 15" src="https://github.com/user-attachments/assets/f3d71f1a-aa54-4fac-944c-2c39f310556d" />
+<img width="822" height="942" alt="WhatsApp Image 2026-10-15 at 13 56 16" src="https://github.com/user-attachments/assets/6ebc64c4-eb18-442d-b509-bc900f288c84" />
+<img width="1280" height="1038" alt="WhatsApp Image 2026-10-15 at 13 56 20" src="https://github.com/user-attachments/assets/51dfe1bf-e684-4d05-a08c-83f4244bacae" />
+<img width="1280" height="998" alt="WhatsApp Image 2026-10-15 at 13 56 26" src="https://github.com/user-attachments/assets/78d29a63-dec2-4f2e-87e3-1fcfeb1a3a7a" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
